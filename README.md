@@ -1,8 +1,8 @@
-<h1 align="center">Сайн байна уу 👋 Би Говьхүү Төгөлдөр</h1>
+<h1 align="center">Hi👋 I am Tuguldur Govikhuu</h1>
 
 <p align="center">
   <b>Data Engineer · ML Engineer · Data Analyst</b><br>
-  ШУТИС · Өгөгдлийн ухаан · 2026 онд төгсөх · Улаанбаатар, Монгол
+  ШУТИС · Өгөгдлийн ухаан · 2026 онд төгссөн · Улаанбаатар, Монгол
 </p>
 
 <p align="center">
